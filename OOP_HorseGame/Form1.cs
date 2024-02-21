@@ -72,6 +72,7 @@ namespace OOP_HorseGame
                 return;
             }
             timer1.Start();
+            //
         }
 
         private void DoBet(object sender, EventArgs e)

@@ -85,7 +85,7 @@
             this.lblFinish.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblFinish.Location = new System.Drawing.Point(1058, 0);
             this.lblFinish.Name = "lblFinish";
-            this.lblFinish.Size = new System.Drawing.Size(26, 509);
+            this.lblFinish.Size = new System.Drawing.Size(22, 509);
             this.lblFinish.TabIndex = 0;
             this.lblFinish.Text = "Finish";
             this.lblFinish.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -252,7 +252,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LimeGreen;
-            this.ClientSize = new System.Drawing.Size(1527, 647);
+            this.ClientSize = new System.Drawing.Size(1150, 647);
             this.Controls.Add(this.btnCheat);
             this.Controls.Add(this.btnPayDebt);
             this.Controls.Add(this.lblBet);
